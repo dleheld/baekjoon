@@ -26,6 +26,6 @@ void queens(int q) {
 }
 int main() {
 	cin >> N;
-	queen(0);
+	queens(0);
 	return 0;
 }
